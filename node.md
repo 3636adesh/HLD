@@ -5,3 +5,7 @@ LLD: Detailed Design, Component-level Design, Micro-level Design, Data Model Des
 Scalibity:- 
 To handle growing workloads,data volumes or users adding resources without sacrificing performance, speed or reliability.
 Ability handle task when system grows
+
+
+Follos github repo for deep drive:-
+https://github.com/donnemartin/system-design-primer
